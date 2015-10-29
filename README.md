@@ -1,9 +1,5 @@
-##batter-gulp
+##webpack-browserify-test
 :+1:
-<pre><code>git clone https://github.com/jonambas/batter-gulp.git
-cd batter-gulp
-npm install
-gulp</code></pre>
 
 ## License
 
